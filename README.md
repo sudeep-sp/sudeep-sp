@@ -10,8 +10,9 @@
     
     
 - 🌱 I’m currently learning
-  * PyTorch
-  * Building ANN without any libraries
+  * Building ANN without any libraries 👷‍♂️
+  * PyTorch 🐍
+  * Computer Vision 👀
     
 - 💞️ I’m looking to collaborate on
   * Building custom ANN
@@ -19,7 +20,7 @@
     
 - 📫 How to reach me: sudeepspdeveloper@gmail.com
 
-- ⚡ Fun fact: My girlfriend thinks I love AI more than her… she’s not wrong! (just kidding!)
+- ⚡ Fun fact: My girlfriend thinks I love AI more than her… she’s not wrong! (just kidding!) 🙂
 
 <!---
 sudeep-sp/sudeep-sp is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
