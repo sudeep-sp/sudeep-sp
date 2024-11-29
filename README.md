@@ -4,18 +4,18 @@
 - 👀 I’m interested in
   * Math used in AI 📈
   * Neural Network Design 🧠
-  * Deep Learning 🛠
+  * ML/DL 🛠
   * Natural Language Processing 🗣️
   * Computer Vision 👀
     
     
 - 🌱 I’m currently learning
-  * Building ANN without any libraries 👷‍♂️
+  * LLM 👷‍♂️
   * PyTorch 🐍
   * Computer Vision 👀
     
 - 💞️ I’m looking to collaborate on
-  * Building custom ANN
+  * Building LLM's
   * Self-Evolving ANN
     
 - 📫 How to reach me: sudeepspdeveloper@gmail.com
