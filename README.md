@@ -2,11 +2,12 @@
   I love playing with neural networks and solving real-world challenges with AI.
   
 - 👀 I’m interested in
-  * Math used in AI 📈
   * Neural Network Design 🧠
   * ML/DL 🛠
   * Natural Language Processing 🗣️
   * Computer Vision 👀
+  * LLM
+  * AI Agents
     
     
 - 🌱 I’m currently learning
@@ -15,7 +16,7 @@
   * Computer Vision 👀
     
 - 💞️ I’m looking to collaborate on
-  * Building LLM's
+  * Building LLM's and AI Agents
   * Self-Evolving ANN
     
 - 📫 How to reach me: sudeepspdeveloper@gmail.com
