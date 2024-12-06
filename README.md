@@ -11,7 +11,7 @@
     
 - 🌱 I’m currently learning
   * LLM 👷‍♂️
-  * PyTorch 🐍
+  * AI Agents 🐍
   * Computer Vision 👀
     
 - 💞️ I’m looking to collaborate on
